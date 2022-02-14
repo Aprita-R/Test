@@ -1,0 +1,10 @@
+name: Video
+type: module
+description: A field type for storing uploaded or embedded videos.
+package: Field types
+dependencies:
+  - file
+version: '8.x-1.4'
+core: '8.x'
+core_version_requirement: ^8 || ^9
+project: 'video'
